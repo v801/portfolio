@@ -3,7 +3,7 @@
 
       <header>
         <h1>portfolio</h1>
-        <p class='intro'>here's a few of my latest front-end development projects.  you can find the source code for this site on <a href='//github.com/cherryslimes/portfolio' target='_blank' rel='noreferrer'>github</a>.</p>
+        <p class='intro'>here's a few of my latest front-end development projects.  you can find the source code for this site on <a href='//github.com/v801/portfolio' target='_blank' rel='noreferrer'>github</a>.</p>
       </header>
 
       <ul>
