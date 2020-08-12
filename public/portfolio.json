@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Battlecamp trading user interface",
+    "desc": "trading user interface for Battlecamp on Facebook",
+    "img": "https://cloud.githubusercontent.com/assets/111012/5151883/9fab294a-7199-11e4-83ca-5b12bf3594d8.jpg"
+  },
+  {
+    "title": "Rumble Games single sign-on modal",
+    "desc": "we needed a slick single sign-on for Rumble Games",
+    "url": "rumblegames.com/kingsroad",
+    "img": "https://cloud.githubusercontent.com/assets/111012/5151874/863883d6-7199-11e4-9789-76261d036b5d.jpg"
+  },
+  {
+    "title": "Rumble Games forgot password",
+    "desc": "forgot password page for Rumble Games",
+    "url": "rumblegames.com/forgotPassword",
+    "img": "https://cloud.githubusercontent.com/assets/111012/5151873/8634c610-7199-11e4-9056-5c6c1349b458.jpg"
+  },
+  {
+    "title": "Rumble Games custom jobvite layout",
+    "desc": "custom jobvite layout for Rumble Games",
+    "url": "hire.jobvite.com/CompanyJobs/Careers.aspx?c=q7a9Vfw5",
+    "img": "https://cloud.githubusercontent.com/assets/111012/5151876/86393b14-7199-11e4-839f-48c726abd8f6.jpg"
+  },
+  {
+    "title": "Ballistic game navigation",
+    "desc": "web navigation for Ballistic",
+    "url": "apps.facebook.com/ballistic",
+    "img": "https://cloud.githubusercontent.com/assets/111012/5151847/108ba906-7199-11e4-88e7-c4a4b1343163.jpg"
+  },
+  {
+    "title": "Ballistic pre-launch landing",
+    "desc": "pre-launch landing page for Ballistic",
+    "url": "rumblegames.com/ballistic",
+    "img": "https://cloud.githubusercontent.com/assets/111012/5151846/108b5528-7199-11e4-9ec8-ccd6b25e6609.jpg"
+  },
+  {
+    "title": "Ballistic Kongregate landing",
+    "desc": "landing page for Ballistic on Kongregate",
+    "url": "kongregate.com/games/rumblegames/ballistic",
+    "img": "https://cloud.githubusercontent.com/assets/111012/5151848/108bcf3a-7199-11e4-83de-430e2da32319.jpg"
+  },
+  {
+    "title": "KingsRoad player register",
+    "desc": "register page for KingsRoad",
+    "url": "rumblegames.com/kingsroad/signin?mod=a",
+    "img": "https://cloud.githubusercontent.com/assets/111012/5151854/35649f3a-7199-11e4-8b1a-8e3624b3723f.jpg"
+  },
+  {
+    "title": "KingsRoad player signin",
+    "desc": "register and signup page for KingsRoad",
+    "url": "rumblegames.com/kingsroad/signin",
+    "img": "https://cloud.githubusercontent.com/assets/111012/5151859/3575a7bc-7199-11e4-8e02-97f66707deeb.jpg"
+  },
+  {
+    "title": "KingsRoad player signin (showing active localization)",
+    "desc": "register and signup page localized in Chinese",
+    "url": "rumblegames.com/kingsroad/signin?lang=zh_CN",
+    "img": "https://cloud.githubusercontent.com/assets/111012/5151857/3568603e-7199-11e4-86a4-eaf9022a72e6.jpg"
+  },
+  {
+    "title": "KingsRoad tablet signin",
+    "desc": "tablet signin page for KingsRoad tablet webview",
+    "url": "rumblegames.com/krApp",
+    "img": "https://cloud.githubusercontent.com/assets/111012/5151858/356b10ae-7199-11e4-9759-a5629bd037bf.jpg"
+  },
+  {
+    "title": "KingsRoad tablet promo email",
+    "desc": "promotional tablet email for KingsRoad",
+    "img": "https://cloud.githubusercontent.com/assets/111012/5151860/35794f5c-7199-11e4-9043-cb2165367d02.jpg"
+  },
+  {
+    "title": "KingsRoad arena promo email",
+    "desc": "promotional arena email for KingsRoad",
+    "img": "https://cloud.githubusercontent.com/assets/111012/5151855/35671efe-7199-11e4-9fb9-956cca36fb24.jpg"
+  },
+  {
+    "title": "KingsRoad new dungeons email",
+    "desc": "dungeons email for KingsRoad",
+    "img": "https://cloud.githubusercontent.com/assets/111012/5151853/3563a026-7199-11e4-9481-d424cb9df8d8.jpg"
+  },
+  {
+    "title": "High End Market Place",
+    "desc": "high end market place website",
+    "url": "highendmarketplace.com",
+    "img": "https://user-images.githubusercontent.com/32247825/32979024-4a73cad8-cc02-11e7-95b6-ba408ce93118.jpg"
+  },
+  {
+    "title": "AdsNative",
+    "desc": "adsnative website",
+    "url": "adsnative.com",
+    "img": "https://user-images.githubusercontent.com/32247825/32979240-49641d1a-cc06-11e7-87c5-e3b055b4b288.jpg"
+  },
+  {
+    "title": "Anki Drive",
+    "desc": "anki drive promo site",
+    "img": "https://user-images.githubusercontent.com/32247825/32979456-6e006e2c-cc0a-11e7-92a2-15e55ea7ced6.jpg"
+  }
+]

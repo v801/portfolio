@@ -1,0 +1,55 @@
+// NAV (MAIN NAV)
+
+.nav
+  position fixed
+  display block
+  width 140px
+  height 100%
+  top 0
+  left 0
+  background-color $black
+  overflow hidden
+  ul
+    no-margin()
+    no-padding()
+  li
+    list-style-type none
+    a
+      display block
+      padding 10px 16px 10px 10px
+      color $green-dark
+      text-align right
+      text-decoration none
+      outline 0
+      &.title
+        margin-bottom 18px
+        padding 10px
+        color $orange
+        text-align center
+        text-decoration none
+        &:hover
+          color $orange
+      &.active
+        background $black-dark
+        color $green-light
+      &:hover
+      &:active
+      &:focus
+        background $black-dark
+        color $green-light
+  @media $tablet
+    position static
+    width 100%
+    height auto
+    ul
+      display table
+      width 100%
+      float none
+    li
+      display table-cell
+      float none
+      a
+        padding 10px
+        text-align center
+        &.title
+          display none
