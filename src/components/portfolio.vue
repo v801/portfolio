@@ -38,7 +38,7 @@ module.exports = {
     }
   },
   mounted() {
-    this.$http.get('/portfolio.json').then((response) => {
+    this.$http.get('./portfolio.json').then((response) => {
       // success callback
       this.jobs = response.data
     }, (response) => {
